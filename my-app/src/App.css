@@ -1,0 +1,94 @@
+.App {
+  text-align: center;
+}
+
+.App-logo {
+  height: 200px;
+  width: 200px;
+  border-radius: 50%;
+  object-fit: cover;
+  border: 5px solid black;
+}
+
+.App-header {
+  padding: 40px 20px;
+}
+
+.fishbowl-button {
+  margin-top: 20px;
+  background: none;
+  border: none;
+  padding: 0;
+  outline: none;
+}
+
+.fishbowl-button:focus,
+.fishbowl-button:active {
+  outline: none;
+  box-shadow: none;
+}
+
+.fishbowl-button:hover {
+  box-shadow: none;
+}
+
+.fishbowl-image {
+  width: 200px;
+  height: 200px;
+  border-radius: 50%;
+  object-fit: cover;
+  transition: transform 0.2s;
+  outline: none;
+}
+
+.fishbowl-image:hover {
+  transform: scale(1.1);
+}
+
+.data-box {
+  max-width: 500px;
+  padding: 20px;
+  font-size: 20px;
+  text-align: center;
+  border-radius: 15px;
+  box-shadow: 4px 4px 15px rgba(0, 0, 0, 0.2);
+  opacity: 0;
+  animation: fadeIn 0.5s ease-in-out forwards;
+}
+
+@keyframes fadeIn {
+  from {
+    opacity: 0;
+    transform: translateY(10px);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+.data-box strong {
+  font-size: 22px;
+  color: #d48f38;
+}
+
+body {
+  background: linear-gradient(to bottom, #d7cac1, #f3e7db);
+}
+
+.toggle-sound {
+  margin-top: 20px;
+  padding: 10px 20px;
+  font-size: 18px;
+  border: none;
+  border-radius: 10px;
+  background-color: #ffcc00;
+  color: black;
+  cursor: pointer;
+  transition: 0.2s;
+}
+
+.toggle-sound:hover {
+  background-color: #ffaa00;
+}
+
