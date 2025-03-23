@@ -1,0 +1,278 @@
+[
+  {
+    "id": 1,
+    "name": "Shadat",
+    "school": "Wayne State",
+    "quote": "If it does not make money, it does not make sense"
+  },
+  {
+    "id": 3,
+    "name": "Ankit",
+    "school": "MSU",
+    "quote": "It is good to let things sit while you figure out the best plan of action"
+  },
+  {
+    "id": 4,
+    "name": "Husain",
+    "school": "Wayne State",
+    "quote": "Keep going, keep fighting"
+  },
+  {
+    "id": 5,
+    "name": "John",
+    "school": "Detroit Mercy",
+    "quote": "Try Hard"
+  },
+  {
+    "id": 6,
+    "name": "Zoey",
+    "school": "OU",
+    "quote": "Crowns are made of discipline, determination, and a hard to find alloy called discipline"
+  },
+  {
+    "id": 7,
+    "name": "Ryan",
+    "school": "OU",
+    "quote": "Do not forget to love yourself"
+  },
+  {
+    "id": 9,
+    "name": "Luc",
+    "school": "OU",
+    "quote": "A little bit of kindness can make someones day"
+  },
+  {
+    "id": 10,
+    "name": "Matti",
+    "school": "OU",
+    "quote": "Always give 100%, unless if you are donating blood"
+  },
+  {
+    "id": 11,
+    "name": "Trent",
+    "school": "OU",
+    "quote": "Nothing is impossible- you cannot spell impossible without I am possible"
+  },
+  {
+    "id": 12,
+    "name": "Alex",
+    "school": "UofM Flint",
+    "quote": "Life is like a sandwich- the bread always comes first"
+  },
+  {
+    "id": 13,
+    "name": "Quen",
+    "school": "OCC",
+    "quote": "Live, Laugh, Love"
+  },
+  {
+    "id": 14,
+    "name": "Eric",
+    "school": "OCC",
+    "quote": "Be a shining light in a world of darkness"
+  },
+  {
+    "id": 15,
+    "name": "Michael",
+    "school": "OU",
+    "quote": "Do not be constrained by todays tech- reach out, imagine what could be, and make it happen"
+  },
+  {
+    "id": 16,
+    "name": "Bredley",
+    "school": "OU",
+    "quote": "The worst they can say is no"
+  },
+  {
+    "id": 17,
+    "name": "Bredley",
+    "school": "OU",
+    "quote": "Action will not always bring happiness, but you cannot have happiness without acton"
+  },
+  {
+    "id": 18,
+    "name": "Lorenzo",
+    "school": "OCC",
+    "quote": "Some men sow what they reap, other men reap what they sow"
+  },
+  {
+    "id": 19,
+    "name": "Lorenzo",
+    "school": "OCC",
+    "quote": "Life is like a bicycle, to keep your balance you must keep moving"
+  },
+  {
+    "id": 20,
+    "name": "Solomiya",
+    "school": "UofM Dearborn",
+    "quote": "You miss 100% of the shots you do not take"
+  },
+  {
+    "id": 22,
+    "name": "Eli",
+    "school": "OU",
+    "quote": "Yesterday, you said tomorrow, so just do it"
+  },
+  {
+    "id": 23,
+    "name": "Joe",
+    "school": "OU",
+    "quote": "Drink Celcius"
+  },
+  {
+    "id": 24,
+    "name": "Brendan",
+    "school": "OU",
+    "quote": "Believe you can and you are halfway there"
+  },
+  {
+    "id": 25,
+    "name": "Donald",
+    "school": "University of Toronto",
+    "quote": "Do your best"
+  },
+  {
+    "id": 26,
+    "name": "Quen",
+    "school": "OCC",
+    "quote": "Never let anyone dull your sparkle"
+  },
+  {
+    "id": 27,
+    "name": "Quen",
+    "school": "OCC",
+    "quote": "Everything happens for a reason, including bad code"
+  },
+  {
+    "id": 28,
+    "name": "Quen",
+    "school": "OCC",
+    "quote": "He/She did her best and God did the rest"
+  },
+  {
+    "id": 29,
+    "name": "Quen",
+    "school": "OCC",
+    "quote": "After every storm comes a rainbow"
+  },
+  {
+    "id": 30,
+    "name": "David",
+    "school": "OCC",
+    "quote": "Study hard and do not do drugs"
+  },
+  {
+    "id": 31,
+    "name": "Ousseynou",
+    "school": "OCC",
+    "quote": "The same water that hardens an egg softens a potato"
+  },
+  {
+    "id": 32,
+    "name": "Adike",
+    "school": "OU",
+    "quote": "Shoot for the stars and you will land on the moon"
+  },
+  {
+    "id": 33,
+    "name": "Spencer",
+    "school": "OU",
+    "quote": "Absence makes the heart grow fonder"
+  },
+  {
+    "id": 34,
+    "name": "Ben",
+    "school": "OU",
+    "quote": "Scramble like an egg before you get folded like an omelette"
+  },
+  {
+    "id": 35,
+    "name": "Fernando",
+    "school": "OU",
+    "quote": "Most people do not even try"
+  },
+  {
+    "id": 36,
+    "name": "Reiko",
+    "school": "UofM",
+    "quote": "People are smart, groups of people are dumb"
+  },
+  {
+    "id": 37,
+    "name": "Owen",
+    "school": "UofM",
+    "quote": "When you come to a fork in the road, take it"
+  },
+  {
+    "id": 38,
+    "name": "Carlotta",
+    "school": "UofM",
+    "quote": "Sometimes good things fall apart so better things can come better"
+  },
+  {
+    "id": 39,
+    "name": "Sabrina",
+    "school": "UofM",
+    "quote": "Why be hard at work when you can be hardly working"
+  },
+  {
+    "id": 40,
+    "name": "Sukh",
+    "school": "Mercy",
+    "quote": "A bad day of fishing is better than a good day at work"
+  },
+  {
+    "id": 41,
+    "name": "Jennifer",
+    "school": "OU",
+    "quote": "In order to have good days, you need to have bad days"
+  },
+  {
+    "id": 42,
+    "name": "Anna",
+    "school": "OU",
+    "quote": "No matter how hard the past is, you can always begin again"
+  },
+  {
+    "id": 43,
+    "name": "Brayden",
+    "school": "OU",
+    "quote": "Its another day in paradise"
+  },
+  {
+    "id": 44,
+    "name": "Michelle",
+    "school": "OU",
+    "quote": "I could get deported"
+  },
+  {
+    "id": 45,
+    "name": "Quen",
+    "school": "OCC",
+    "quote": "Your life is as good as your mindset"
+  },
+  {
+    "id": 46,
+    "name": "Lorenzo",
+    "school": "OCC",
+    "quote": "Do not touch the switch, switch the touch"
+  },
+  {
+    "id": 47,
+    "name": "Ben",
+    "school": "OU",
+    "quote": "The road to heaven is hell, the road to hell is heaven"
+  },
+  {
+    "id": 48,
+    "name": "Mina",
+    "school": "OU",
+    "quote": "Travel more"
+  },
+  {
+    "id": 49,
+    "name": "Craig",
+    "school": "OU",
+    "quote": "You are crazy until you are genius"
+  }
+]
