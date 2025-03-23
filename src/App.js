@@ -1,26 +1,39 @@
-import React, { useEffect, useState } from "react";
+import React, { useState } from "react";
 
-function App() {
-    const [data, setData] = useState([]);
+const App = () => {
+  const [data, setData] = useState(null);
 
-    useEffect(() => {
-        fetch("/data.json")  // Fetches the JSON file from the "public" folder
-            .then(response => response.json())
-            .then(json => setData(json))
-            .catch(error => console.error("Error loading JSON:", error));
-    }, []);
+  const handleClick = async () => {
+    try {
+      const response = await fetch("/data.json");
+      const jsonData = await response.json();
+      setData(jsonData);
+    } catch (error) {
+      console.error("Error fetching data:", error);
+    }
+  };
 
-    return (
-        <div>
-            <h1>GrizzHacks Data</h1>
-            <ul>
-                {data.map((item, index) => (
-                    <li key={index}>{item.name} - {item.value}</li>
-                ))}
-            </ul>
+  return (
+    <div style={{ textAlign: "center", marginTop: "50px" }}>
+      <h1>Click the Fishbowl</h1>
+      <img
+        src="/fishbowl.jpg"
+        alt="Fishbowl"
+        onClick={handleClick}
+        style={{ width: "300px", cursor: "pointer" }}
+      />
+      {data && (
+        <div style={{ marginTop: "20px", border: "1px solid black", padding: "10px" }}>
+          <h2>Database Info:</h2>
+          <pre>{JSON.stringify(data, null, 2)}</pre>
         </div>
-    );
-}
+      )}
+    </div>
+  );
+};
+
+export default App;
+
 
 export default App;
 
